@@ -15,7 +15,7 @@ Vous êtes data analyst dans un cabinet de consultant spécialisé dans la trans
 ## 📦 Livrables
 
 1. **Workflow KNIME** : Automatisation de la création des graphiques du diagnostic avec commentaires.
-2. **Fichier .csv** : Données préparées et anonymisées prêtes pour Tableau Software.
+2. **Fichier .csv** : Données préparées et anonymisées.
 
 ## 📂 Structure du Repository
 ```
