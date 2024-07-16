@@ -1,6 +1,6 @@
 # ⚖️ Automatisation du Rapport d'Égalité Femmes-Hommes
 
-Bienvenue dans le repository du projet **Automatisation du Rapport d'Égalité Femmes-Hommes**. Ce projet consiste à automatiser la création d'un rapport diagnostique sur l'égalité professionnelle entre les femmes et les hommes au sein de l'entreprise, en utilisant KNIME et en préparant les données pour Tableau Software.
+Bienvenue dans le repository du projet **Automatisation du Rapport d'Égalité Femmes-Hommes**. Ce projet consiste à automatiser la création d'un rapport diagnostique sur l'égalité professionnelle entre les femmes et les hommes au sein de l'entreprise, en utilisant KNIME.
 
 ## 📚 Contexte du Projet
 
@@ -19,7 +19,7 @@ Vous êtes data analyst dans un cabinet de consultant spécialisé dans la trans
 
 ## 📂 Structure du Repository
 ```
-├── Dataset                                                          # Base de données du projet avec les différentes tables
+├── Dataset                                                          # Base de données SIRH du projet
 ├── Moreno_Bastien_1_workflow_KNIME_042023.knwf                      # Fichier KNIME
 ├── Moreno_Bastien_fichier_csv_042023.csv                            # Données RH anonymisées
 ├── Outil_Diag_EgaPro_Index_21-04-21.xlsx                            # Document type de Diagnostic égalité du ministère du Travail
@@ -35,5 +35,5 @@ Pour générer les graphiques du diagnostic égalité femmes-hommes, ouvrez et e
 Le fichier `Moreno_Bastien_fichier_csv_042023.csv` contient les données RH anonymisées prêtes à être utilisées dans KNIME pour des analyses futures.
 
 ## 👨‍💻 Auteur
-Bastien Moreno - Data Analyst passionné par l'analyse de données et la création de solutions automatisées.\
+Bastien Moreno - Data Scientist passionné par l'analyse de données et le développement de modèles intelligents.\
 Pour en savoir plus sur moi et mes projets, n'hésitez pas à me contacter via mon [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bastien-moreno441237/).
